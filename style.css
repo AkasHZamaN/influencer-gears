@@ -398,7 +398,7 @@ hr{
     .influ-container .influ-img{
         margin: 0 330px;
     }
-    .influ-detail > p > a{
+    .influ-container .influ-detail p a{
         text-decoration: none;
         color: #FFFFFF;
         font-size: 20px;
