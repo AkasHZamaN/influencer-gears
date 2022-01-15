@@ -228,7 +228,7 @@ hr{
     padding: 8px 15px;
     border-radius: 25px;
 }
-.influ-container .influ-detail small a:hover{
+.influ-container .influ-detail p a:hover{
     letter-spacing: 2px;
     cursor: pointer;
 }
